@@ -10,6 +10,8 @@
 	import { fade } from 'svelte/transition'
 	export let data
 
+    import { base } from '$app/paths';
+
 	const transitionIn = { delay: 150, duration: 150 }
 	const transitionOut = { duration: 100 }
 
@@ -34,6 +36,11 @@
 	})
 </script>
 
+
+<svelte:head>
+
+	<link rel="icon" href="{ base }/favicon.png" />
+</svelte:head>
 
 <!-- 
 	The below markup is used on every page in the site. The <slot> is where the page's
