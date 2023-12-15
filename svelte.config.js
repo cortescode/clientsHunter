@@ -47,7 +47,11 @@ const config = {
 				'/blog/category/page/*',
 				'/blog/page/',
 				'/blog/page/*',
-			]
+			],
+			handleHttpError: async ({ status, error }) => {
+				// handle the error here
+				return { body: 'An error occurred', status };
+			  },
 		}
 	}
 };
