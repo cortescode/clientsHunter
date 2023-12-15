@@ -29,7 +29,7 @@
 		.then((response) => {
 			if (response.ok) {
 			alert("El formulario ha sido enviado correctamente. Te responderemos lo antes posible.");
-				window.location.pathname = base+'/';
+				window.location.pathname = base +'/';
 			} else {
 				throw new Error("Error sending form data");
 			}
