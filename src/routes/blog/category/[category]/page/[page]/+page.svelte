@@ -3,6 +3,7 @@
 	import PostsList from '$lib/components/PostsList.svelte'
 	import Pagination from '$lib/components/Pagination.svelte'
 	import { siteDescription, postsPerPage } from '$lib/config'
+    import { base } from '$app/paths';
 
 	export let data
 	const { page, category, totalPosts, posts } = data 
@@ -35,5 +36,5 @@
 
 	<p>Sorry, no posts to show here.</p>
 
-	<a href="/blog">Back to blog</a>
+	<a href="{ base }/blog">Back to blog</a>
 {/if}

@@ -1,6 +1,7 @@
 <script>
 	import Callout from '$lib/components/Callout.svelte'
 
+    import { base } from '$app/paths';
 
 	function handleSubmit(event) {
 		event.preventDefault(); // Prevent the form from submitting normally
@@ -28,7 +29,7 @@
 		.then((response) => {
 			if (response.ok) {
 			alert("El formulario ha sido enviado correctamente. Te responderemos lo antes posible.");
-				window.location.pathname = '/';
+				window.location.pathname = base+'/';
 			} else {
 				throw new Error("Error sending form data");
 			}

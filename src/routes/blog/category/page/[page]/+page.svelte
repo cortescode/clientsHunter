@@ -4,8 +4,10 @@
 	import Pagination from '$lib/components/Pagination.svelte'
 	import { siteDescription } from '$lib/config'
 
+    import { base } from '$app/paths';
+
 	export let data
-  const { page, totalPosts, posts } = data
+  	const { page, totalPosts, posts } = data
 
 	$: lowerBound = (page * postsPerPage) - (postsPerPage - 1) || 1
 	$: upperBound = Math.min(page * postsPerPage, totalPosts)
@@ -31,5 +33,5 @@
 
 	<p>Sorry, no posts to show here.</p>
 
-	<a href="/blog">Back to blog</a>
+	<a href="{ base }/blog">Back to blog</a>
 {/if}
