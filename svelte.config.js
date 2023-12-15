@@ -34,12 +34,11 @@ const config = {
 		}),
 
 		paths: {
-			base: process.env.BASE_PATH || '',
+			base: '/clientsHunter',
 		},
 		prerender: {
 			entries: [
-				'/',
-				'/contact',
+				'*',
 				'/api/posts/page/*',
 				'/blog/category/*/page/',
 				'/blog/category/*/page/*',
