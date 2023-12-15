@@ -8,7 +8,7 @@
 export const siteTitle = 'ClientsHunter'
 export const siteDescription = 'Start to master the art of sales'
 export const siteURL = 'clientsHunter.co'
-export const siteLink = 'https://github.com/josh-collinsworth/sveltekit-blog-starter'
+export const siteLink = 'https://github.com/cortescode/clientsHunter'
 export const siteAuthor = '- Pablo Cortés'
 
 // Controls how many posts are shown per page on the main blog index pages
