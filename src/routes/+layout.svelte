@@ -38,7 +38,6 @@
 
 
 <svelte:head>
-
 	<link rel="icon" href="{ base }/favicon.png" />
 </svelte:head>
 
