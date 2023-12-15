@@ -5,6 +5,7 @@
  * PLEASE BE SURE TO UPDATE THEM ALL! Thank you!
  **/ 
 
+import { base } from '$app/paths';
 
 export const siteTitle = 'ClientsHunter'
 export const siteDescription = 'Start to master the art of sales'
@@ -19,9 +20,9 @@ export const postsPerPage = 10
 export const navItems = [
 	{
 		title: 'Blog',
-		route: '/blog'
+		route: base+'/blog'
 	}, {
 		title: 'Contact us',
-		route: '/contact' 
+		route: base+'/contact' 
 	},
 ]

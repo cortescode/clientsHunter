@@ -34,7 +34,7 @@ const config = {
 		}),
 
 		paths: {
-			base: '/clientsHunter',
+			base: process.env.BASE_PATH || '',
 		},
 		prerender: {
 			entries: [
