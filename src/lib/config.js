@@ -5,6 +5,7 @@
  * PLEASE BE SURE TO UPDATE THEM ALL! Thank you!
  **/ 
 
+
 export const siteTitle = 'ClientsHunter'
 export const siteDescription = 'Start to master the art of sales'
 export const siteURL = 'clientsHunter.co'

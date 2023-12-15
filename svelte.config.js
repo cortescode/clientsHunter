@@ -34,11 +34,12 @@ const config = {
 		}),
 
 		paths: {
-			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+			base: process.env.BASE_PATH || '',
 		},
 		prerender: {
 			entries: [
-				'*',
+				'/',
+				'/contact',
 				'/api/posts/page/*',
 				'/blog/category/*/page/',
 				'/blog/category/*/page/*',
