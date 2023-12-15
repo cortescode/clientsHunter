@@ -44,10 +44,14 @@
         margin: 0;
         padding: 0;
         outline-bottom: none !important;
+
+        background: -webkit-linear-gradient(60deg, #e77f56, #ca2d2d 80%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
     }
 
     .logo-image {
-        width: 44px;
+        width: 54px;
         margin: 10px 10px 10px 0;
     }
 

@@ -32,12 +32,13 @@ footer {
 }
 
 header {
-	background: var(--lightAccent);
+	background: white;
 	color: var(--darker);
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 1.25rem 1rem;
+	padding: 0.5rem 2rem;
+	border-bottom: 1px solid var(--darker);
 
 	@media (min-width: vars.$smMin) {
 		flex-wrap: wrap;
