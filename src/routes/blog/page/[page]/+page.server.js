@@ -1,18 +1,19 @@
 import { postsPerPage } from '$lib/config'
 import fetchPosts from '$lib/assets/js/fetchPosts'
 import { redirect } from '@sveltejs/kit'
+import { base } from "$app/paths"
 
 export const load = async ({ url, params, fetch }) => {
   const page = parseInt(params.page) || 1
 
   // Keeps from duplicationg the blog index route as page 1
   if (page <= 1) {
-    throw redirect(301, `clientshunter.co/blog`)
+    throw redirect(301, `${base}/blog`)
   }
   
   let offset = (page * postsPerPage) - postsPerPage
 
-  const totalPostsRes = await fetch(`clientshunter.co/api/posts/count`)
+  const totalPostsRes = await fetch(`${base}/api/posts/count`)
   const total = await totalPostsRes.json()
   const { posts } = await fetchPosts({ offset, page })
   
