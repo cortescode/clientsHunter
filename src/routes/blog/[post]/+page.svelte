@@ -1,18 +1,20 @@
 <!-- This file renders each individual blog post for reading. Be sure to update the svelte:head below -->
 <script>
-export let data
+	export let data
 
-const {
-	title,
-	excerpt,
-	date,
-	updated,
-	/* coverImage,
-	coverWidth,
-	coverHeight, */
-	categories 
-} = data.meta
-const { PostContent } = data
+	const {
+		title,
+		excerpt,
+		date,
+		updated,
+		/* coverImage,
+		coverWidth,
+		coverHeight, */
+		categories 
+	} = data.meta
+	const { PostContent } = data
+
+	import { base } from '$app/paths';
 </script>
 
 
@@ -59,7 +61,7 @@ const { PostContent } = data
 			<ul>
 				{#each categories as category}
 					<li>
-						<a href="/blog/category/{category}/">
+						<a href="{base}/blog/category/{category}/">
 							{ category }
 						</a>
 					</li>

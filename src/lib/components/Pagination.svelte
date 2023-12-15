@@ -1,9 +1,11 @@
 <script>
 	import { postsPerPage } from '$lib/config'
 
+    import { base } from '$app/paths';
+
 	export let currentPage
 	export let totalPosts
-	export let path = '/blog/page'
+	export let path = base + '/blog/page'
 	
 	let pagesAvailable
 	$: pagesAvailable = Math.ceil(totalPosts / postsPerPage)

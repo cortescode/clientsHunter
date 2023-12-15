@@ -24,7 +24,7 @@ jobs:
       
       - name: build        
         env:          
-          BASE_PATH: '/clientsHunter'        
+          BASE_PATH: '/${{ github.event.repository.name }}'        
         run: |          
           npm run build
       

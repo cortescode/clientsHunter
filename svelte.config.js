@@ -35,14 +35,8 @@ const config = {
 
 		paths: {
 			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
-			relative: false,
 		},
 		prerender: {
-
-			handleHttpError: async ({ status, error }) => {
-				// handle the error here
-				return { body: 'An error occurred', status };
-			  },
 			entries: [
 				'*',
 				'/api/posts/page/*',
