@@ -1,9 +1,12 @@
 <script>
+    import { base } from "$app/paths";
+
     export let title;
+    
 </script>
 
-<a class="logo-container site-title" href="/">
-    <img class="logo-image" src="/logo.png" alt="">
+<a class="logo-container site-title" href="{ base }/">
+    <img class="logo-image" src="{ base }/logo.png" alt="">
     <h1 class="logo logo-header">{title}</h1>
 </a>
 
