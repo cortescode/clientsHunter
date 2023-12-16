@@ -43,13 +43,18 @@ const render = (posts) => `
 	</url>
 	${posts
 		.map(
-			(post) => `
+			(post) => {
+				
+				let date = new Date(post.date)
+				let formatted_date = `${date.getFullYear()}-${date.getMonth() - 1}-${date.getDay()}`
+				return`
 	<url>
 		<loc>https://${siteURL}/blog/${post.slug}</loc>
 		<changefreq>weekly</changefreq>
-		<lastmod>${new Date(post.date).toUTCString()}</lastmod>
+		<lastmod>${formatted_date}</lastmod>
 		<priority>0.9</priority>
 	</url>`
+	}
 		)
 		.join('')
 	}
