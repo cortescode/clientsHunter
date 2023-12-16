@@ -46,7 +46,7 @@ const render = (posts) => `
 			(post) => {
 				
 				let date = new Date(post.date)
-				let formatted_date = `${date.getFullYear()}-${date.getMonth() - 1}-${date.getDay()}`
+				let formatted_date = `${date.getFullYear()}-${(date.getMonth() - 1).toString().padStart(2, '0')}-${date.getDay().toString().padStart(2, '0')}`
 				return`
 	<url>
 		<loc>https://${siteURL}/blog/${post.slug}</loc>
