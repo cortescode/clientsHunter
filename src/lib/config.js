@@ -6,7 +6,7 @@
  **/ 
 
 
-export const siteTitle = 'Clients Hunter - Elevate Your Sales Game with Expert Sales Consulting Services"'
+export const siteTitle = 'Clients Hunter - Elevate Your Sales Game with Expert Sales Consulting Services'
 export const siteDescription = 'Unlock unprecedented sales success with Clients Hunter, your trusted partner in sales consulting. Our seasoned experts employ cutting-edge strategies to supercharge your business, targeting and acquiring clients with precision. Visit our webpage and explore how you can maximize your revenue and elevate your sales performance.'
 export const siteURL = 'clientsHunter.co'
 export const siteLink = 'https://github.com/cortescode/clientsHunter'
