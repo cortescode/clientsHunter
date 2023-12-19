@@ -5,8 +5,7 @@ updated: "2023-12-11"
 categories: 
   - "sales"
   - "digital strategy"
-excerpt: "
-Boost your cold reach through successful sales funnel optimization on social media! Learn proven strategies like defining your target audience, creating compelling content, using social media ads, providing value, following up with leads, and monitoring metrics. Take your outreach efforts to the next level and convert leads into paying customers."
+excerpt: "Boost your cold reach through successful sales funnel optimization on social media! Learn proven strategies like defining your target audience, creating compelling content, using social media ads, providing value, following up with leads, and monitoring metrics. Take your outreach efforts to the next level and convert leads into paying customers."
 --- 
 
 Are you tired of struggling to connect with potential customers on social media? Do you feel like your cold outreach efforts are falling flat and not yielding the results you desire? If so, it's time to optimize your sales funnel on social media. In this post, we will discuss proven strategies that can help you boost cold reach through sales funnel optimization on social media.

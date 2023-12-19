@@ -4,8 +4,7 @@ date: "2023-12-15"
 updated: "2023-12-15"
 categories: 
     - "digital marketing"
-excerpt: "As a business owner, you understand the importance of reaching your target audience and growing your brand online. One platform that can help you achieve this is Instagram. With over 1 billion monthly active users, Instagram is an excellent tool for businesses looking to increase their visibility and connect with customers. In this beginner's guide, we will cover everything you need to know about using Instagram for business.
-"
+excerpt: "As a business owner, you understand the importance of reaching your target audience and growing your brand online. One platform that can help you achieve this is Instagram. With over 1 billion monthly active users, Instagram is an excellent tool for businesses looking to increase their visibility and connect with customers. In this beginner's guide, we will cover everything you need to know about using Instagram for business."
 --- 
 As a business owner, you understand the importance of reaching your target audience and growing your brand online. One platform that can help you achieve this is Instagram. With over 1 billion monthly active users, Instagram is an excellent tool for businesses looking to increase their visibility and connect with customers. In this beginner's guide, we will cover everything you need to know about using Instagram for business.
 

@@ -4,8 +4,7 @@ date: "2023-12-19"
 updated: "2023-12-19"
 categories: 
     - "business growth"
-excerpt: "
-Discover successful software development projects that have adopted agile methodologies. Learn how Netflix, Amazon, and Atlassian streamlined their processes and delivered high-quality products faster with agile. Get practical tips and advice to help your team adopt agile methodologies effectively. Improve efficiency and quality of software development projects today!"
+excerpt: "Discover successful software development projects that have adopted agile methodologies. Learn how Netflix, Amazon, and Atlassian streamlined their processes and delivered high-quality products faster with agile. Get practical tips and advice to help your team adopt agile methodologies effectively. Improve efficiency and quality of software development projects today!"
 --- 
 Are you tired of long development cycles that leave your clients frustrated and your team members burned out? Agile methodologies may be just what you need to streamline your software development process and deliver higher quality products faster. In this blog post, we’ll explore real-world examples of successful software development projects that utilized agile methodologies.
 

@@ -4,8 +4,7 @@ date: "2023-12-19"
 updated: "2023-12-19"
 categories:
     - "business growth"
-excerpt: "
-Looking to implement agile methodologies in your organization? Check out our 10 best practices that will help you increase efficiency, adaptability, and customer satisfaction! Learn how to start small, embrace flexibility, foster collaboration, prioritize customer needs, and more!"
+excerpt: "Looking to implement agile methodologies in your organization? Check out our 10 best practices that will help you increase efficiency, adaptability, and customer satisfaction! Learn how to start small, embrace flexibility, foster collaboration, prioritize customer needs, and more!"
 --- 
 Agile methodologies have gained significant traction in recent years due to their ability to increase efficiency, adaptability, and customer satisfaction. In this post, we’ll explore the ten best practices for implementing agile methodologies in your organization.
 

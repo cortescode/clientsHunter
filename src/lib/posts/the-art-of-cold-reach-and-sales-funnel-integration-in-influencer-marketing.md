@@ -5,8 +5,7 @@ updated: "2023-12-11"
 categories: 
   - "sales"
   - "digital strategy"
-excerpt: "
-Discover the power of cold reach and sales funnel integration in influencer marketing. Our guide explores these crucial components, including tips for successful implementation and monitoring results to improve ROI."
+excerpt: "Discover the power of cold reach and sales funnel integration in influencer marketing. Our guide explores these crucial components, including tips for successful implementation and monitoring results to improve ROI."
 --- 
 Are you looking to take your sales and marketing efforts to the next level? One powerful tool that can help you achieve success is influencer marketing. By partnering with social media influencers, you can tap into their audiences and reach new customers. However, the key to a successful influencer marketing campaign lies in the art of cold reach and effective sales funnel integration.
 

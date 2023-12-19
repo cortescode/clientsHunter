@@ -5,8 +5,7 @@ updated: "2023-12-11"
 categories: 
   - "sales"
   - "digital strategy"
-excerpt: "
-Learn how to effectively cold reach on social media and integrate it with your sales funnel in this comprehensive guide. Discover tips and actionable advice on targeting your audience, using multiple platforms, creating engaging content, and personalizing your approach. Additionally, learn about integrating lead magnets, nurturing leads, using sales funnel software, and optimizing for conversions to maximize results."
+excerpt: "Learn how to effectively cold reach on social media and integrate it with your sales funnel in this comprehensive guide. Discover tips and actionable advice on targeting your audience, using multiple platforms, creating engaging content, and personalizing your approach. Additionally, learn about integrating lead magnets, nurturing leads, using sales funnel software, and optimizing for conversions to maximize results."
 --- 
 
 Social media is a powerful tool for reaching out to potential customers and generating sales. However, cold reaching on social media can be challenging, especially when trying to integrate with your sales funnel. In this article, we will provide you with tips and actionable advice to help you effectively cold reach on social media and integrate it with your sales funnel.

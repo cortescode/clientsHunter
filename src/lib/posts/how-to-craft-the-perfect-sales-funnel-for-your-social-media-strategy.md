@@ -5,8 +5,7 @@ updated: "2023-12-11"
 categories: 
   - "sales"
   - "digital strategy"
-excerpt: "
-Crafting a sales funnel for your social media strategy can generate more leads and close more deals. Learn how to create a successful sales funnel for your social media strategy by understanding its stages, providing value through content marketing, nurturing leads through email marketing, and closing deals through social media ads. Follow these tips to optimize your sales funnel for maximum effectiveness!"
+excerpt: "Crafting a sales funnel for your social media strategy can generate more leads and close more deals. Learn how to create a successful sales funnel for your social media strategy by understanding its stages, providing value through content marketing, nurturing leads through email marketing, and closing deals through social media ads. Follow these tips to optimize your sales funnel for maximum effectiveness!"
 --- 
 
 Do you want to generate more leads and close more deals through social media? Then crafting a sales funnel is the perfect way to do just that. A sales funnel is a step-by-step process that guides potential customers from initial awareness to purchase. In this post, we'll show you how to create a successful sales funnel for your social media strategy.

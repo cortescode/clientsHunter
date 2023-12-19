@@ -4,8 +4,7 @@ date: "2023-12-15"
 updated: "2023-12-15"
 categories: 
     - "digital marketing"
-excerpt: "Are you looking for ways to increase your sales and engage with your audience? Look no further than video marketing! In this article, we'll explore how video marketing can help boost engagement and increase sales.
-"
+excerpt: "Are you looking for ways to increase your sales and engage with your audience? Look no further than video marketing! In this article, we'll explore how video marketing can help boost engagement and increase sales."
 --- 
 Are you looking for ways to increase your sales and engage with your audience? Look no further than video marketing! In this article, we'll explore how video marketing can help boost engagement and increase sales.
 

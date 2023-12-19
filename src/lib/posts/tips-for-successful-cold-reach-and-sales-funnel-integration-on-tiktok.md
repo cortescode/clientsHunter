@@ -5,8 +5,7 @@ updated: "2023-12-11"
 categories: 
   - "sales"
   - "digital strategy"
-excerpt: "
-Learn how to successfully integrate cold reach and sales funnel on TikTok with these practical tips and actionable advice. Understand TikTok's algorithm, create content that resonates with your target audience, use hashtags, challenges, and collaborate with influencers effectively. Create an effective sales funnel and track its performance using analytics tools. Boost your chances of reaching a wider audience on TikTok and convert leads into customers with these proven strategies."
+excerpt: "Learn how to successfully integrate cold reach and sales funnel on TikTok with these practical tips and actionable advice. Understand TikTok's algorithm, create content that resonates with your target audience, use hashtags, challenges, and collaborate with influencers effectively. Create an effective sales funnel and track its performance using analytics tools. Boost your chances of reaching a wider audience on TikTok and convert leads into customers with these proven strategies."
 --- 
 ## Introduction:
 ------------

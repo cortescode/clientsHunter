@@ -5,8 +5,7 @@ updated: "2023-12-11"
 categories: 
   - "sales"
   - "digital strategy"
-excerpt: "
-Looking to expand your sales efforts beyond social media? TikTok is a great option to consider with over 1 billion active users. This post discusses effective strategies for capturing user attention, maintaining engagement, and converting leads into paying customers on TikTok. Learn about TikTok ads, cold outreach strategies, and sales funnel integration, and get practical tips and actionable advice to create a successful campaign."
+excerpt: "Looking to expand your sales efforts beyond social media? TikTok is a great option to consider with over 1 billion active users. This post discusses effective strategies for capturing user attention, maintaining engagement, and converting leads into paying customers on TikTok. Learn about TikTok ads, cold outreach strategies, and sales funnel integration, and get practical tips and actionable advice to create a successful campaign."
 --- 
 
 Are you looking for new ways to expand your sales efforts beyond social media platforms like Facebook and Instagram? TikTok could be a great option to consider. With over 1 billion active users, this platform offers a unique opportunity for businesses to reach a wider audience and generate more revenue. However, integrating cold outreach and sales funnel strategies on TikTok can be challenging. In this post, we'll discuss some effective strategies that you can use to capture user attention, maintain engagement, and convert leads into paying customers.

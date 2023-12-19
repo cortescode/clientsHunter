@@ -5,8 +5,7 @@ updated: "2023-12-11"
 categories: 
   - "sales"
   - "digital strategy"
-excerpt: "
-Looking to improve your cold reach and sales funnel integration? Discover effective social media strategies that will drive results. Learn how to create engaging content, leverage paid advertising campaigns, and integrate with your sales funnel. Boost your leads and convert more customers with our actionable tips."
+excerpt: "Looking to improve your cold reach and sales funnel integration? Discover effective social media strategies that will drive results. Learn how to create engaging content, leverage paid advertising campaigns, and integrate with your sales funnel. Boost your leads and convert more customers with our actionable tips."
 --- 
 
 Are you looking to improve your cold reach and sales funnel integration? Look no further than social media! In today's digital age, social media has become an essential tool for businesses looking to connect with their target audience and generate leads. However, with so many platforms to choose from, it can be challenging to develop a successful social media strategy that will drive results.

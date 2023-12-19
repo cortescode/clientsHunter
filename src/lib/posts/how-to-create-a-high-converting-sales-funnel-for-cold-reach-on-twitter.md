@@ -5,8 +5,7 @@ updated: "2023-12-11"
 categories: 
   - "sales"
   - "digital strategy"
-excerpt: "
-Are you tired of spending countless hours on social media trying to reach new clients without seeing any results? Learn how to create a high-converting sales funnel for cold reach on Twitter in this post. Follow five steps to turn more leads into paying customers and grow your business."
+excerpt: "Are you tired of spending countless hours on social media trying to reach new clients without seeing any results? Learn how to create a high-converting sales funnel for cold reach on Twitter in this post. Follow five steps to turn more leads into paying customers and grow your business."
 --- 
 
 Twitter is an excellent platform for reaching out to potential customers and growing your business. However, it can be challenging to get people to respond to your tweets without a compelling reason to do so. That's where the sales funnel comes in.

@@ -4,8 +4,7 @@ date: "2023-12-15"
 updated: "2023-12-15"
 categories: 
     - "digital marketing"
-excerpt: "As a Digital marketing and SEO specialist, you know that staying up-to-date with the latest digital marketing trends is crucial to the success of your business. In this ever-changing landscape, it can be challenging to keep track of which tactics will yield the best results. In this article, we'll explore some of the most important digital marketing trends you need to know in order to stay ahead of the competition and achieve your sales goals.
-"
+excerpt: "As a Digital marketing and SEO specialist, you know that staying up-to-date with the latest digital marketing trends is crucial to the success of your business. In this ever-changing landscape, it can be challenging to keep track of which tactics will yield the best results. In this article, we'll explore some of the most important digital marketing trends you need to know in order to stay ahead of the competition and achieve your sales goals."
 --- 
 As a Digital marketing and SEO specialist, you know that staying up-to-date with the latest digital marketing trends is crucial to the success of your business. In this ever-changing landscape, it can be challenging to keep track of which tactics will yield the best results. In this article, we'll explore some of the most important digital marketing trends you need to know in order to stay ahead of the competition and achieve your sales goals.
 

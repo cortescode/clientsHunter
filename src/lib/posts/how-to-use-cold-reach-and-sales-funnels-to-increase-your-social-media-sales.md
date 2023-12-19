@@ -5,8 +5,7 @@ updated: "2023-12-11"
 categories: 
   - "sales"
   - "digital strategy"
-excerpt: "
-Boost your social media sales with cold reach and sales funnels. Learn how to optimize your profiles, create valuable content, use paid advertising, build trust with your audience, and use a sales funnel to guide them to becoming paying customers. Don't forget to engage with your audience and track your results."
+excerpt: "Boost your social media sales with cold reach and sales funnels. Learn how to optimize your profiles, create valuable content, use paid advertising, build trust with your audience, and use a sales funnel to guide them to becoming paying customers. Don't forget to engage with your audience and track your results."
 --- 
 
 Are you struggling to generate sales from your social media accounts? Do you feel like no matter what you do, your followers just aren't converting into paying customers? If so, then you're not alone. Many businesses face this challenge when it comes to social media marketing.
