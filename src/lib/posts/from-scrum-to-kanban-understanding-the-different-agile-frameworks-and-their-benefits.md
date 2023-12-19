@@ -1,10 +1,10 @@
 ---
-title: "From Scrum to Kanban: Understanding the Different Agile Frameworks and Their Benefits"
-date: "2023-12-19"
-updated: "2023-12-19"
+title: "From Scrum to Kanban: Understanding the Different Agile Frameworks"
+date: "2023-12-15"
+updated: "2023-12-15"
 categories: 
     - "business growth"
-excerpt: "From Scrum to Kanban: Understanding the Different Agile Frameworks and Their Benefits" provides valuable insights into two of the most popular agile frameworks - Scrum and Kanban. Explore their key benefits, such as improved transparency, flexibility, productivity, and quality products in software development and project management. Discover practical tips and actionable advice to help you decide which framework is best for your organization. Boost team collaboration, adapt to changing requirements, reduce overproduction, and improve resource utilization with agile methodologies."
+excerpt: "From Scrum to Kanban: Understanding the Different Agile Frameworks and Their Benefits. provides valuable insights into two of the most popular agile frameworks - Scrum and Kanban. Explore their key benefits, such as improved transparency, flexibility, productivity, and quality products in software development and project management. Discover practical tips and actionable advice to help you decide which framework is best for your organization. Boost team collaboration, adapt to changing requirements, reduce overproduction, and improve resource utilization with agile methodologies."
 --- 
 Are you looking to improve your team's productivity and efficiency? If so, then you might be considering adopting an agile framework to streamline your workflow. But with so many different agile frameworks available, it can be hard to know which one is right for your organization. In this post, we'll explore two popular agile frameworks - Scrum and Kanban - and discuss their benefits.
 
