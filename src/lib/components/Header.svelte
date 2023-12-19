@@ -16,7 +16,7 @@
 		Skip to main content
 	</a>
 	
-	<LogoImage title={siteTitle} />
+	<LogoImage/>
 	
 	<HamburgerMenuButton />
 	<MainNav />

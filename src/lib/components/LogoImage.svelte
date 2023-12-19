@@ -1,13 +1,11 @@
 <script>
     import { base } from "$app/paths";
 
-    export let title;
-    
 </script>
 
 <a class="logo-container site-title" href="{ base }/">
     <img class="logo-image" src="{ base }/logo.png" alt="">
-    <h1 class="logo logo-header">{title}</h1>
+    <h1 class="logo logo-header">Clients Hunter</h1>
 </a>
 
 
